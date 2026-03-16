@@ -1,4 +1,4 @@
-package com.example.anti_gravity_carousel_demo
+package com.example.carousel_demo
 
 import io.flutter.embedding.android.FlutterActivity
 
