@@ -5,8 +5,8 @@
 ## Preview
 
 
-
-|![Nebula Space](carousel_nebula.png) | ![Ocean Deep](carousel_ocean.png) | ![Sunset Peak](carousel_sunset.png) |
+| :---: | :---: | :---: |
+| ![Nebula Space](carousel_nebula.png) | ![Ocean Deep](carousel_ocean.png) | ![Sunset Peak](carousel_sunset.png) |
 
 ## How to Run
 1. Ensure you have Flutter installed.
